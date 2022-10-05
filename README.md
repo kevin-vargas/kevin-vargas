@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Kevin Vargas</h1>
-<h3 align="center">Technology enthusiast, always learning.</h3>
+<p align="center"><a href="https://github.com/kevin-vargas"><img width="60%" alt="Hello, I'm Kevin." src="./assets/banner.png" /></a></p>
+
+<h3 align="center">Technology enthusiast from Argentina 🇦🇷</h3>
+
+###  About me
 
 - 🔭 I’m currently working as **Software Engineer**
 
 - 📫 Contact me on **Linkedin**
+###  I’m currently learning ...
+
+- ☁️ GCP Cloud ( Preparing Professional Cloud Architect Exam )
+- 🕸️ Istio Service Mesh
+- 🦑 ArgoCD
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
