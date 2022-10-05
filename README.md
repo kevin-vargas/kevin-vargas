@@ -9,7 +9,7 @@
 - 📫 Contact me on **Linkedin**
 ###  I’m currently learning ...
 
-- ☁️ GCP Cloud ( Preparing Professional Cloud Architect Exam )
+- ☁️ GCP Cloud
 - 🕸️ Istio Service Mesh
 - 🦑 ArgoCD
 
